@@ -4,7 +4,9 @@
   
 ## Activate the Env
   `conda create -n flaskProjectEnv python=3.7`
+  
   `conda activate flaskProjectEnv`
+  
   `pip install -r requirements.txt`
   
   `export SECRET_KEY="<testsecret>"`
